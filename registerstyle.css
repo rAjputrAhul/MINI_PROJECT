@@ -1,0 +1,51 @@
+body
+{
+   color: rgb(205, 255, 255);
+    background-color: #1d7874;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.register-form{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name-text
+{
+font-size:3rem;
+margin-bottom: 2rem;
+}
+
+.register
+{
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+}
+.user-input
+{
+border: none;
+background-color: #1d7874;
+border-bottom: 2px solid black;
+}
+.register-button
+{
+margin-top: 2rem;
+padding: 0.5rem 2rem 0.5rem 2rem;
+border: none;
+font-size: 2rem;
+font-family: 'Josefin Sans', sans-serif;
+background-color: rgb(205, 255, 255);
+}
+.already
+{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    border: NONE;
+    background-color: #1d7874;
+    color: rgb(205, 255, 255);
+}

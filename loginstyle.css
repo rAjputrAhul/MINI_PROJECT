@@ -1,0 +1,65 @@
+body
+{
+   color: blanchedalmond;
+    background-color: #781D42;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.login-form
+{
+    height: 70vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.username-text
+{
+font-size:3rem;
+margin-bottom: 2rem;
+}
+.lost
+{
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+}
+.user-input
+{
+border: none;
+background-color: #781D42;
+border-bottom: 2px solid black;
+
+
+}
+.submit-button
+{
+    text-decoration: none;
+color: #781D42;
+margin-top: 2rem;
+padding: 0.5rem 2rem 0.5rem 2rem;
+border: none;
+font-size: 2rem;
+font-family: 'Josefin Sans', sans-serif;
+background-color:blanchedalmond;
+}
+.register-button
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: NONE;
+    background-color: #781D42;
+    color: blanchedalmond;
+}
+.register
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.register-link
+{
+  text-decoration: none;
+  color: blanchedalmond;
+  font-size: 1.5rem;
+}

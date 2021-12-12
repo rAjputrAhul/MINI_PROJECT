@@ -1,0 +1,18 @@
+
+body
+{
+    color: rgb(9, 77, 109);
+    background-color: #b1e1e9;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.report
+{   
+    font-weight: bolder;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
